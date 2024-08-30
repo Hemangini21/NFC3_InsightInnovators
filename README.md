@@ -59,5 +59,5 @@ The project performs the following analyses:
 5. **Customizable Reports:**
    - Enables the generation of customized reports and summaries based on specific criteria, such as individual politicians or time periods.
 
-    ```
+
 
